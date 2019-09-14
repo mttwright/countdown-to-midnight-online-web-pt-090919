@@ -14,3 +14,4 @@ def countdown(number = 10)
 end
 
 countdown
+countdown(100)
