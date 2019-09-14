@@ -28,5 +28,4 @@ def countdown_with_sleep(number = 10)
 end
 
 
-countdown_with_sleep(5)
 
